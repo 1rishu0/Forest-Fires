@@ -4,13 +4,13 @@ This project predicts forest fire occurrences in Algeria using meteorological an
 ## Dataset Description
 The dataset contains the following columns:
 
-**Day:** Day of the observation (DD).
-**Month:** Month of the observation (June to September).
-**Year:** Year of the observation (2012).
-**Temperature (Temp):** Temperature at noon in Celsius degrees (22 to 42).
-**Relative Humidity (RH):** Relative humidity in % (21 to 90).
-**Wind Speed (Ws):** Wind speed in km/h (6 to 29).
-**Rain:** Total daily rainfall in mm (0 to 16.8).
+- **Day:** Day of the observation (DD).
+- **Month:** Month of the observation (June to September).
+- **Year:** Year of the observation (2012).
+- **Temperature (Temp):** Temperature at noon in Celsius degrees (22 to 42).
+- **Relative Humidity (RH):** Relative humidity in % (21 to 90).
+- **Wind Speed (Ws):** Wind speed in km/h (6 to 29).
+- **Rain:** Total daily rainfall in mm (0 to 16.8).
 
 ## FWI Components
 The dataset includes Fire Weather Index (FWI) system components, which help assess fire risks based on weather and fuel conditions.
