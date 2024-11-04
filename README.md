@@ -64,6 +64,11 @@ The project includes a web application built with Flask, HTML, and CSS to make t
 4. **Access the Web Application**:  
    Open `http://127.0.0.1:5000` in your web browser to use the application.
 
+https://github.com/user-attachments/assets/0698b70d-b0c7-4239-9cac-5f4b6fbf66c6
+
+https://github.com/user-attachments/assets/c49bb6d4-9b0d-46c6-b228-e9830422d4ec
+
+
 ## Conclusion
 
 This project combines machine learning and web technologies to provide an accessible tool for predicting forest fires in Algeria. By analyzing weather and FWI components, the model offers valuable insights into fire risks, aiding in early detection and prevention strategies to protect Algeria's forests and communities.
